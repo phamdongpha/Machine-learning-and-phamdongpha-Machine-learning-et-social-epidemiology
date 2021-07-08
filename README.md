@@ -1,4 +1,4 @@
-- Covid 19 : This involves knowing how to handle essential tools to understand how digital data are extracted and structured with the aim of transforming them into information (impacts, ratios, occupancy rate) allowing interpretation and reflection, so it is an important aspect in sociology.
+- Covid 19 in France : This involves knowing how to handle essential tools to understand how digital data are extracted and structured with the aim of transforming them into information (impacts, ratios, occupancy rate) allowing interpretation and reflection, so it is an important aspect in sociology.
 
 Project:
 
