@@ -1,7 +1,5 @@
 # Project Data scienc : Machine learning and social epidemiology
 
-Report and analysis written in French by PHAM Dong Pha, MENARD June-Camille, COMOY Matthieu.
-
 - Covid 19 in France : This involves knowing how to handle essential tools to understand how digital data are extracted and structured with the aim of transforming them into information (impacts, ratios, occupancy rate) allowing interpretation and reflection, so it is an important aspect in sociology.
 
 Project:
